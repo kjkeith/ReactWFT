@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ReactWFT/static/css/main.c8b8e774.chunk.css",
-    "main.js": "/ReactWFT/static/js/main.771463f6.chunk.js",
-    "main.js.map": "/ReactWFT/static/js/main.771463f6.chunk.js.map",
+    "main.js": "/ReactWFT/static/js/main.9ffd319e.chunk.js",
+    "main.js.map": "/ReactWFT/static/js/main.9ffd319e.chunk.js.map",
     "runtime-main.js": "/ReactWFT/static/js/runtime-main.b956e99e.js",
     "runtime-main.js.map": "/ReactWFT/static/js/runtime-main.b956e99e.js.map",
     "static/css/2.383c0125.chunk.css": "/ReactWFT/static/css/2.383c0125.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.383c0125.chunk.css",
     "static/js/2.0758e664.chunk.js",
     "static/css/main.c8b8e774.chunk.css",
-    "static/js/main.771463f6.chunk.js"
+    "static/js/main.9ffd319e.chunk.js"
   ]
 }
