@@ -1,0 +1,116 @@
+[
+    {
+        "name" : "Akbolto Prime",
+        "description" : "Gilded rails adorn these two vicious bolt launching pistols.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/8/88/MirageAkboltoPrime.png/revision/latest?cb=20171213095347",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Akbolto_Prime"
+    },
+    {
+        "name" : "Akbronco Prime",
+        "description" : "Used together, these Orokin pistols feed off each other, inflicting greater damage with an enhanced chance for inducing elemental effects on targets.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/a/af/DEPrimeDualBroncos.png/revision/latest?cb=20140306030523",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Akbronco_Prime"
+    },
+    {
+        "name" : "Akjagara Prime",
+        "description" : "Precision machined mirrored pistols. Primed and ready.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/b/ba/AkjagaraPrime.png/revision/latest?cb=20181218224226",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Akjagara_Prime"
+    },
+    {
+        "name" : "Aklex Prime",
+        "description" : "Savage the enemy with a Lex Prime in each hand.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/6/61/Aklex_Prime.png/revision/latest?cb=20170127212929",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Aklex_Prime"
+    },
+    {
+        "name" : "Akstiletto Prime",
+        "description" : "Stylish, discreet and accurate, perfect for the Tenno of distinction.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/4/43/PrimeAkstiletto.png/revision/latest?cb=20160520210650",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Akstiletto_Prime"
+    },
+    {
+        "name" : "Akvasto Prime",
+        "description" : "Orokin craftsmanship married with superior firepower. Dual Vastos, primed and ready to strike.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/0/03/AkvastoPrime.png/revision/latest?cb=20181113201313",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Akvasto_Prime"
+    },
+    {
+        "name" : "Ballistica Prime",
+        "description" : "The beauty of this luxuriously gilded crossbow cannot obscure its lethal purpose.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/d/db/PrimeBallistica.png/revision/latest?cb=20170829215439",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Ballistica_Prime"
+    },
+    {
+        "name" : "Bronco Prime",
+        "description" : "Infused with rare Orokin alloys, the Bronco Prime is a highly efficient weapon, trading an increased Magazine Capacity and damage for a lower rate of fire.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/c/c8/PrimeBronco.png/revision/latest?cb=20130713204336",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Bronco_Prime"
+    },
+    {
+        "name" : "Deconstructor Prime",
+        "description" : "Allows the Helios Prime to violently disassemble and turn itself into a deadly projectile.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/9/9f/DeconstructorPrime.png/revision/latest?cb=20170222214714",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Deconstructor_Prime"
+    },
+    {
+        "name" : "Euphona Prime",
+        "description" : "Banshee Prime’s signature shotgun is an instrument of devastation that fires both focused and broad shots.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/2/23/EuphoraPrime.png/revision/latest?cb=20170301080132",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Euphona_Prime"
+    },
+    {
+        "name" : "Hikou Prime",
+        "description" : "As deadly as any bullet without the associated noise or commotion.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/b/b4/PrimeHikou.png/revision/latest?cb=20140923195818",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Hikou_Prime"
+    },
+    {
+        "name" : "Lato Prime",
+        "description" : "The Lato is a highly accurate pistol used by the Tenno everywhere. Prime model offers slightly increased damage.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/0/03/LatoPrime.png/revision/latest?cb=20161029030340",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Lato_Prime"
+    },
+    {
+        "name" : "Lex Prime",
+        "description" : "The Lex Prime is a powerful, accurate pistol that has a low Fire Rate and Magazine Capacity. Very efficient at long range.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/9/9e/PrimeLex.png/revision/latest?cb=20140410055707",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Lex_Prime"
+    },
+    {
+        "name" : "Prime Laser Rifle",
+        "description" : "A Prime Laser Rifle.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/9/93/SentinelBurstLaserPrime.png/revision/latest?cb=20140718041009",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Prime_Laser_Rifle"
+    },
+    {
+        "name" : "Pyrana Prime",
+        "description" : "Three kills in rapid succession to summon a second ethereal Pyrana for twice the deadly punch.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/e/e3/PyranaPrime.png/revision/latest?cb=20180619191908",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Pyrana_Prime"
+    },
+    {
+        "name" : "Sicarus Prime",
+        "description" : "The Sicarus Prime is an ornamental firearm that fires rounds in rapid bursts, providing a balance between the lethality of auto-pistols and the accuracy of semi-automatic pistols.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/d/d7/DESicarus_Prime.png/revision/latest?cb=20140124172933",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Sicarus_Prime"
+    },
+    {
+        "name" : "Spira Prime",
+        "description" : "These rare, braided throwing daggers were a favorite tool of high ranking Orokin assassins.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/0/02/PrimeLiDagger.png/revision/latest?cb=20160207121252",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Spira_Prime"
+    },
+    {
+        "name" : "Sweeper Prime",
+        "description" : "Standard issue weapon for Carrier Prime Sentinel. Fires shotgun rounds.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/8/81/SentinelSweeperPrime.png/revision/latest?cb=20150707200907",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Sweeper_Prime"
+    },
+    {
+        "name" : "Vasto Prime",
+        "description" : "This elegant rapid-fire revolver is the embodiment of superior Orokin craftsmanship.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/f/f6/PrimeVasto.png/revision/latest?cb=20141217030947",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Vasto_Prime"
+    }
+]

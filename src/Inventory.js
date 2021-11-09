@@ -1,16 +1,16 @@
 import React from 'react';
   
-const Inventory = () => {
+function Inventory() {
     return (
         <div
           style={{
             display: 'flex',
-            justifyContent: 'Right',
-            alignItems: 'Right',
+            justifyContent: 'Center',
+            alignItems: 'Center',
             height: '100vh'
           }}
         >
-          <h1>Welcome to GeeksforGeeks Blogs</h1>
+          <h1>Welcome to my Test Inventory</h1>
         </div>
       );
     };

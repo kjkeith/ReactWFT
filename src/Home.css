@@ -1,0 +1,12 @@
+#main-title-page {
+    padding-top: 5%;
+    padding-bottom: 10%;
+}
+
+#searchbar {
+    padding: 20px;
+}
+
+html, body {
+    height: 100%;
+}

@@ -1,0 +1,79 @@
+[
+    {
+        "name" : "Boar Prime",
+        "description" : "One of the finest examples of Tenno craftsmanship, the Boar Prime offers a higher Fire Rate, Magazine Capacity and a much higher per-shot damage.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/e/e7/FixedPrimeBoar.png/revision/latest?cb=20130914101658",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Boar_Prime"
+    },
+    {
+        "name" : "Boltor Prime",
+        "description" : "Fires Orokin designed bolts that are faster and sharper.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/5/59/DEPrimeBoltor.png/revision/latest?cb=20140306030523",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Boltor_Prime"
+    },
+    {
+        "name" : "Braton Prime",
+        "description" : "A classic Orokin weapon, Braton Prime features modified damage levels and a larger magazine over the standard model.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/0/02/PrimeBraton.png/revision/latest?cb=20161125231435",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Braton_Prime"
+    },
+    {
+        "name" : "Burston Prime",
+        "description" : "Once thought lost to the ages, attempts to reengineer the Burston Prime never fully replicated this weapon's power and agility.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/8/83/PrimeBurston.png/revision/latest?cb=20161126000536",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Burston_Prime"
+    },
+    {
+        "name" : "Cernos Prime",
+        "description" : "A noble bow to hunt hellish beasts.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/0/06/CernosPrime.png/revision/latest?cb=20161123020233",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Cernos_Prime"
+    },
+    {
+        "name" : "Latron Prime",
+        "description" : "The ornamental Latron Prime exploits ancient Orokin technology to get a slight damage increase over the standard Latron.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/c/c1/DELatronPrime.png/revision/latest?cb=20140124171644",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Latron_Prime"
+    },
+    {
+        "name" : "Paris Prime",
+        "description" : "Discovered deep inside an ancient Orokin derelict, the Paris Prime increases the kinetic energy of any bolt it fires, dealing more damage than its more common counterpart.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/7/75/PrimeBowM.png/revision/latest?cb=20130713213733",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Paris_Prime"
+    },
+    {
+        "name" : "Rubico Prime",
+        "description" : "For the hunter, the apex of the sniper's art. For the hunted, a gateway to the next life.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/e/e6/RubicoPrime.png/revision/latest?cb=20180929023357",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Rubico_Prime"
+    },
+    {
+        "name" : "Soma Prime",
+        "description" : "Known for taking down whole squads with its single massive clip, few weapons were as feared as the Prime Soma.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/a/a6/PrimeSoma.png/revision/latest?cb=20141217030947",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Soma_Prime"
+    },
+    {
+        "name" : "Sybaris Prime",
+        "description" : "Sleek and slender, a golden symbol of Tenno perfection.",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Sybaris_Prime"
+    },
+    {
+        "name" : "Tiberon Prime",
+        "description" : "Art meets ingenuity with this beautifully deadly rifle.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/2/25/TiberonPrime.png/revision/latest?cb=20180313200757",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Tiberon_Prime"
+    },
+    {
+        "name" : "Tigris Prime",
+        "description" : "An artifact of exquisite beauty. A weapon of deadly purpose.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/a/aa/PrimeTigris342.png/revision/latest?cb=20160820032128",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Tigris_Prime"
+    },
+    {
+        "name" : "Vectis Prime",
+        "description" : "Once thought destroyed, the newly uncovered Vectis Prime revives Tenno martial traditions.",
+        "wikiaThumbnail" : "https://vignette.wikia.nocookie.net/warframe/images/6/68/VectisPrime.png/revision/latest?cb=20161125231239",
+        "wikiaUrl" : "http://warframe.fandom.com/wiki/Vectis_Prime"
+    }
+]

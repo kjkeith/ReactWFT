@@ -1,0 +1,1582 @@
+[
+    {
+        "itemType" : "melee",
+        "item" : "Ankyros Prime",
+        "part" : "Blade"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Ankyros Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Ankyros Prime",
+        "part" : "Gauntlet"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Ankyros Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Bo Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Bo Prime",
+        "part" : "Handle"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Bo Prime",
+        "part" : "Ornament"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Bo Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Dakra Prime",
+        "part" : "Blade"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Dakra Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Dakra Prime",
+        "part" : "Handle"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Dakra Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Destreza Prime",
+        "part" : "Blade"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Destreza Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Destreza Prime",
+        "part" : "Handle"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Destreza Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Dual Kamas Prime",
+        "part" : "Blade"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Dual Kamas Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Dual Kamas Prime",
+        "part" : "Handle"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Fragor Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Fragor Prime",
+        "part" : "Handle"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Fragor Prime",
+        "part" : "Head"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Fragor Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Fang Prime",
+        "part" : "Blade"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Fang Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Fang Prime",
+        "part" : "Handle"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Galatine Prime",
+        "part" : "Blade"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Galatine Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Galatine Prime",
+        "part" : "Handle"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Galatine Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Glaive Prime",
+        "part" : "Blade"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Glaive Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Glaive Prime",
+        "part" : "Disc"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Glaive Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Gram Prime",
+        "part" : "Blade"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Gram Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Gram Prime",
+        "part" : "Handle"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Gram Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Kogake Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Kogake Prime",
+        "part" : "Boot"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Kogake Prime",
+        "part" : "Gauntlet"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Kogake Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Kronen Prime",
+        "part" : "Blade"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Kronen Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Kronen Prime",
+        "part" : "Handle"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Kronen Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Nami Skyla Prime",
+        "part" : "Blade"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Nami Skyla Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Nami Skyla Prime",
+        "part" : "Handle"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Nami Skyla Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Nikana Prime",
+        "part" : "Blade"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Nikana Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Nikana Prime",
+        "part" : "Hilt"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Nikana Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Orthos Prime",
+        "part" : "Blade"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Orthos Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Orthos Prime",
+        "part" : "Handle"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Orthos Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Reaper Prime",
+        "part" : "Blade"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Reaper Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Reaper Prime",
+        "part" : "Handle"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Reaper Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Redeemer Prime",
+        "part" : "Blade"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Redeemer Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Redeemer Prime",
+        "part" : "Handle"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Redeemer Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Scindo Prime",
+        "part" : "Blade"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Scindo Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Scindo Prime",
+        "part" : "Handle"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Scindo Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Silva & Aegis Prime",
+        "part" : "Blade"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Silva & Aegis Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Silva & Aegis Prime",
+        "part" : "Guard"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Silva & Aegis Prime",
+        "part" : "Hilt"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Silva & Aegis Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Venka Prime",
+        "part" : "Blades"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Venka Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Venka Prime",
+        "part" : "Gauntlet"
+    },
+    {
+        "itemType" : "melee",
+        "item" : "Venka Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Boar Prime",
+        "part" : "Barrel"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Boar Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Boar Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Boar Prime",
+        "part" : "Receiver"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Boar Prime",
+        "part" : "Stock"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Boltor Prime",
+        "part" : "Barrel"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Boltor Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Boltor Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Boltor Prime",
+        "part" : "Receiver"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Boltor Prime",
+        "part" : "Stock"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Braton Prime",
+        "part" : "Barrel"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Braton Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Braton Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Braton Prime",
+        "part" : "Receiver"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Braton Prime",
+        "part" : "Stock"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Burston Prime",
+        "part" : "Barrel"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Burston Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Burston Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Burston Prime",
+        "part" : "Receiver"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Burston Prime",
+        "part" : "Stock"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Cernos Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Cernos Prime",
+        "part" : "Grip"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Cernos Prime",
+        "part" : "Lower Limb"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Cernos Prime",
+        "part" : "String"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Cernos Prime",
+        "part" : "Upper Limb"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Latron Prime",
+        "part" : "Barrel"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Latron Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Latron Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Latron Prime",
+        "part" : "Receiver"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Latron Prime",
+        "part" : "Stock"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Paris Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Paris Prime",
+        "part" : "Grip"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Paris Prime",
+        "part" : "Lower Limb"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Paris Prime",
+        "part" : "String"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Paris Prime",
+        "part" : "Upper Limb"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Rubico Prime",
+        "part" : "Barrel"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Rubico Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Rubico Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Rubico Prime",
+        "part" : "Receiver"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Rubico Prime",
+        "part" : "Stock"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Soma Prime",
+        "part" : "Barrel"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Soma Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Soma Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Soma Prime",
+        "part" : "Receiver"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Soma Prime",
+        "part" : "Stock"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Sybaris Prime",
+        "part" : "Barrel"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Sybaris Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Sybaris Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Sybaris Prime",
+        "part" : "Receiver"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Sybaris Prime",
+        "part" : "Stock"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Tiberon Prime",
+        "part" : "Barrel"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Tiberon Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Tiberon Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Tiberon Prime",
+        "part" : "Receiver"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Tiberon Prime",
+        "part" : "Stock"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Tigris Prime",
+        "part" : "Barrel"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Tigris Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Tigris Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Tigris Prime",
+        "part" : "Receiver"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Tigris Prime",
+        "part" : "Stock"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Vectis Prime",
+        "part" : "Barrel"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Vectis Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Vectis Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Vectis Prime",
+        "part" : "Receiver"
+    },
+    {
+        "itemType" : "primary",
+        "item" : "Vectis Prime",
+        "part" : "Stock"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Akbolto Prime",
+        "part" : "Barrel"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Akbolto Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Akbolto Prime",
+        "part" : "Link"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Akbolto Prime",
+        "part" : "Receiver"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Akbronco Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Akbronco Prime",
+        "part" : "Bronco Prime"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Akbronco Prime",
+        "part" : "Bronco Prime"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Akbronco Prime",
+        "part" : "Link"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Akjagara Prime",
+        "part" : "Barrel"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Akjagara Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Akjagara Prime",
+        "part" : "Link"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Akjagara Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Akjagara Prime",
+        "part" : "Receiver"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Aklex Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Aklex Prime",
+        "part" : "Lex Prime"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Aklex Prime",
+        "part" : "Lex Prime"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Aklex Prime",
+        "part" : "Link"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Akstiletto Prime",
+        "part" : "Barrel"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Akstiletto Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Akstiletto Prime",
+        "part" : "Link"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Akstiletto Prime",
+        "part" : "Receiver"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Akvasto Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Akvasto Prime",
+        "part" : "Link"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Akvasto Prime",
+        "part" : "Vasto Prime"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Akvasto Prime",
+        "part" : "Vasto Prime"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Ballistica Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Ballistica Prime",
+        "part" : "Lower Limb"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Ballistica Prime",
+        "part" : "Receiver"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Ballistica Prime",
+        "part" : "String"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Ballistica Prime",
+        "part" : "Upper Limb"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Bronco Prime",
+        "part" : "Barrel"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Bronco Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Bronco Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Bronco Prime",
+        "part" : "Receiver"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Euphona Prime",
+        "part" : "Barrel"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Euphona Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Euphona Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Euphona Prime",
+        "part" : "Receiver"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Hikou Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Hikou Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Hikou Prime",
+        "part" : "Pouch"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Hikou Prime",
+        "part" : "Stars"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Lex Prime",
+        "part" : "Barrel"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Lex Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Lex Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Lex Prime",
+        "part" : "Receiver"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Pyrana Prime",
+        "part" : "Barrel"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Pyrana Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Pyrana Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Pyrana Prime",
+        "part" : "Receiver"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Sicarus Prime",
+        "part" : "Barrel"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Sicarus Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Sicarus Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Sicarus Prime",
+        "part" : "Receiver"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Spira Prime",
+        "part" : "Blade"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Spira Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Spira Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Spira Prime",
+        "part" : "Pouch"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Vasto Prime",
+        "part" : "Barrel"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Vasto Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Vasto Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "secondary",
+        "item" : "Vasto Prime",
+        "part" : "Receiver"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Ash Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Ash Prime",
+        "part" : "Chassis"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Ash Prime",
+        "part" : "Neuroptics"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Ash Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Ash Prime",
+        "part" : "Systems"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Banshee Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Banshee Prime",
+        "part" : "Chassis"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Banshee Prime",
+        "part" : "Neuroptics"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Banshee Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Banshee Prime",
+        "part" : "Systems"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Chroma Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Chroma Prime",
+        "part" : "Chassis"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Chroma Prime",
+        "part" : "Neuroptics"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Chroma Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Chroma Prime",
+        "part" : "Systems"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Ember Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Ember Prime",
+        "part" : "Chassis"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Ember Prime",
+        "part" : "Neuroptics"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Ember Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Ember Prime",
+        "part" : "Systems"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Frost Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Frost Prime",
+        "part" : "Chassis"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Frost Prime",
+        "part" : "Neuroptics"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Frost Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Frost Prime",
+        "part" : "Systems"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Hydroid Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Hydroid Prime",
+        "part" : "Chassis"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Hydroid Prime",
+        "part" : "Neuroptics"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Hydroid Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Hydroid Prime",
+        "part" : "Systems"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Limbo Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Limbo Prime",
+        "part" : "Chassis"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Limbo Prime",
+        "part" : "Neuroptics"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Limbo Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Limbo Prime",
+        "part" : "Systems"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Loki Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Loki Prime",
+        "part" : "Chassis"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Loki Prime",
+        "part" : "Neuroptics"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Loki Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Loki Prime",
+        "part" : "Systems"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Mag Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Mag Prime",
+        "part" : "Chassis"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Mag Prime",
+        "part" : "Neuroptics"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Mag Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Mag Prime",
+        "part" : "Systems"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Mesa Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Mesa Prime",
+        "part" : "Chassis"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Mesa Prime",
+        "part" : "Neuroptics"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Mesa Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Mesa Prime",
+        "part" : "Systems"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Mirage Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Mirage Prime",
+        "part" : "Chassis"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Mirage Prime",
+        "part" : "Neuroptics"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Mirage Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Mirage Prime",
+        "part" : "Systems"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Nekros Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Nekros Prime",
+        "part" : "Chassis"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Nekros Prime",
+        "part" : "Neuroptics"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Nekros Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Nekros Prime",
+        "part" : "Systems"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Nova Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Nova Prime",
+        "part" : "Chassis"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Nova Prime",
+        "part" : "Neuroptics"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Nova Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Nova Prime",
+        "part" : "Systems"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Nyx Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Nyx Prime",
+        "part" : "Chassis"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Nyx Prime",
+        "part" : "Neuroptics"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Nyx Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Nyx Prime",
+        "part" : "Systems"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Oberon Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Oberon Prime",
+        "part" : "Chassis"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Oberon Prime",
+        "part" : "Neuroptics"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Oberon Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Oberon Prime",
+        "part" : "Systems"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Rhino Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Rhino Prime",
+        "part" : "Chassis"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Rhino Prime",
+        "part" : "Neuroptics"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Rhino Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Rhino Prime",
+        "part" : "Systems"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Saryn Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Saryn Prime",
+        "part" : "Chassis"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Saryn Prime",
+        "part" : "Neuroptics"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Saryn Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Saryn Prime",
+        "part" : "Systems"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Trinity Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Trinity Prime",
+        "part" : "Chassis"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Trinity Prime",
+        "part" : "Neuroptics"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Trinity Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Trinity Prime",
+        "part" : "Systems"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Valkyr Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Valkyr Prime",
+        "part" : "Chassis"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Valkyr Prime",
+        "part" : "Neuroptics"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Valkyr Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Valkyr Prime",
+        "part" : "Systems"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Vauban Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Vauban Prime",
+        "part" : "Chassis"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Vauban Prime",
+        "part" : "Neuroptics"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Vauban Prime",
+        "part" : "Nitain Extract"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Vauban Prime",
+        "part" : "Systems"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Volt Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Volt Prime",
+        "part" : "Chassis"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Volt Prime",
+        "part" : "Neuroptics"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Volt Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Volt Prime",
+        "part" : "Systems"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Zephyr Prime",
+        "part" : "Blueprint"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Zephyr Prime",
+        "part" : "Chassis"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Zephyr Prime",
+        "part" : "Neuroptics"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Zephyr Prime",
+        "part" : "Orokin Cell"
+    },
+    {
+        "itemType" : "warframe",
+        "item" : "Zephyr Prime",
+        "part" : "Systems"
+    }
+]
